@@ -4,4 +4,4 @@
 
 •[Lab 3](https://github.com/LordOfNightmares/SI-Labs/tree/master/Lab%203)
 
-•[Lab 3](https://github.com/LordOfNightmares/SI-Labs/tree/master/Lab%204)
+•[Lab 4](https://github.com/LordOfNightmares/SI-Labs/tree/master/Lab%204)
