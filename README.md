@@ -1,5 +1,5 @@
 # SI-Labs
 
-[a relative link](Lab 2)
+[Lab 2](https://github.com/LordOfNightmares/SI-Labs/tree/master/Lab%202)
 
-[a relative link](Lab 3)
+[Lab 3](https://github.com/LordOfNightmares/SI-Labs/tree/master/Lab%203)
