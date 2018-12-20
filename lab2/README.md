@@ -7,7 +7,7 @@ In the first screenshot i initialise sql map to see what tables are inside the w
 ![ScreenShot](1.png)
 Here are the databases that the website includes
 ![ScreenShot](3.png)
-As for the sql injection here are a example
+As for the sql injection here are a example from the file **Select.txt** in **Select2.txt** is another example
 ```        ___
           __H__
     ___ ___["]_____ ___ ___  {1.2.4#stable}
